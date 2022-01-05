@@ -5,6 +5,20 @@ section{
     align-items: center;
     justify-content: center;
 }
+.welcome{
+    color: rgb(30, 210, 165);
+    font-size: 20%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+    border-color: brown;
+}
+.to-my-world{
+    color: aqua;
+    border-top: blue;
+    font-size: 500px;
+    font-style: italic;
+
+}
 .half-width{
     width: 50%;
     padding-left: 2px;
@@ -16,8 +30,12 @@ section{
     font-size: 50px;
 }
 .my-name{
-    color: lightsalmon;
+    color: rgb(204, 69, 16);
     border: 1px solid red;
+    font-weight: 400;
+    font-family: fantasy;
+    
+    
     
 }
 .my-name:hover{
